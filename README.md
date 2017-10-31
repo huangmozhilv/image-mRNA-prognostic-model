@@ -25,7 +25,7 @@ Directory description (codes should also be executed according to the following 
 Adding the tools in folder "tools" to matlab search path.
 
 2. "tools"
-Providing tools (such as reading whole-slide images in .svs format and nucleus segmentation) to be used by other programs. You don't need to run the codes in this folder.
+Providing tools (such as reading whole-slide images in .svs format and nucleus segmentation) to be used by other programs. You don't need to run the code in this folder.
 
 3. "imageAndClinicalInfo"
 Preparing the images to be processed (we only focus on solid tumor image) and clinical information like tumor grade, stage, survival time.
